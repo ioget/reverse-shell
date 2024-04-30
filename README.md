@@ -8,15 +8,15 @@ Project Structure:
     server.py: Handles incoming requests from the client, executes user-level commands, and sends responses back.
 
 Start the Server:
-Bash
 
-python serve.py
 
-    Run the Client:
+    python serve.py
 
-Bash
+Run the Client:
 
-python client.py
+
+
+    python client.py
 
 
 Client Interaction:
