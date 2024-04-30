@@ -7,7 +7,7 @@ Project Structure:
     client.py: Manages the client-side interaction, sending commands to the server and receiving responses.
     server.py: Handles incoming requests from the client, executes user-level commands, and sends responses back.
 
-    Start the Server:
+Start the Server:
 Bash
 
 python serve.py
@@ -27,6 +27,6 @@ Client Interaction:
     The server's response will be displayed in the client window.
 
 
-    Disclaimer:
+Disclaimer:
 
 This project is for educational purposes only. The provided code is not suitable for production use due to the security vulnerabilities associated with direct sudo execution. Always prioritize security measures when implementing remote access solutions.
